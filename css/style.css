@@ -1,0 +1,13 @@
+.nav-height{
+    height: 60px;
+    overflow: hidden;
+}
+
+.index-img{
+    width: 400px;
+    height: auto;
+}
+
+.index-p{
+    padding: 40px;
+}
